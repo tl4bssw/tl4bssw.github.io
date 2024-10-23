@@ -115,16 +115,16 @@ analytics:
 author:
   name             : "Welcome"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Site for the 2024 TL4BSSw Workshop hosted at the University of Central Florida"
+  bio              : "2024 TL4BSSw Workshop hosted at the University of Central Florida"
   location         : "Somewhere"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "tl4bssw@gmail.com"
+      # url: "tl4bssw@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "tl4bssw.github.io
+      # url: "tl4bssw.github.io"
     # - label: "Twitter"
       #icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -133,7 +133,7 @@ author:
     #  # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/tl4bssw"
+      #url: "https://github.com/tl4bssw"
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
