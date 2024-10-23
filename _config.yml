@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Welcome"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "2024 TL4BSSw Workshop hosted at the University of Central Florida"
-  location         : "Somewhere"
+  bio              : "2024 TL4BSSw Workshop hosted @ the University of Central Florida"
+  location         : "Orlando, FL, USA"
   email            :
   links:
     - label: "Email"

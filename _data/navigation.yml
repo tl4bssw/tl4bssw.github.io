@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Agenda"
+    url: https://tl4bssw.github.io/agenda/
+  - title: "Location"
+    url: https://tl4bssw.github.io/location/
+  - title: "Materials"
+    url: https://tl4bssw.github.io/materials/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
