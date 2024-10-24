@@ -1,20 +1,14 @@
 ---
-#defaults:
-  # _pages
-   #scope:
-      #path: ""
-      #type: pages
-    #values:
-      layout: single
-      author_profile: true
-      title: Workshop Agenda
-      permalink: /agenda.md
+layout: single
+author_profile: true
+title: Workshop Agenda
+permalink: /agenda
 ---
-permalink: /404.html
+
 #### Sunday, November 3, 2024
 <p></p>
-<p style="font-size: 16px;">Arrive in Orlando, Florida</p>
-
+<p style="font-size: 16px;"><i>Arrive in Orlando, Florida</i></p>
+<ul style="font-size: 16px;"> <li>Hotel: <a href="https://thecelestehotel.com/">The Celeste</a></li></ul>
 
 #### Monday, November 4, 2024
 <p></p>
@@ -35,7 +29,6 @@ permalink: /404.html
 <p style="font-size: 16px;">03:00 PM <i>All-Hands Session 2</i></p>
 
 <p style="font-size: 16px;">04:05 PM <i>Publication Opportunities</i></p>
-
 
 #### Tuesday, November 5, 2024
 <p></p>
