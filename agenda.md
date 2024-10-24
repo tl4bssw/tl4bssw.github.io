@@ -2,7 +2,6 @@
 layout: single
 author_profile: true
 title: Workshop Agenda
-permalink: /agenda
 ---
 
 #### Sunday, November 3, 2024
