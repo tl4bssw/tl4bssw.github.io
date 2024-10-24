@@ -8,46 +8,47 @@
       layout: single
       author_profile: true
       title: Workshop Agenda
+      permalink: /agenda.md
 ---
+permalink: /404.html
+#### Sunday, November 3, 2024
+<p></p>
+<p style="font-size: 16px;">Arrive in Orlando, Florida</p>
 
 
-### Sunday, November 3, 2024
+#### Monday, November 4, 2024
+<p></p>
+<p style="font-size: 16px;">08:00 AM <i>Breakfast/Check In</i></p>
 
-Arrive in Orlando, Florida
+<p style="font-size: 16px;">09:00 AM <i>Welcome and Intros</i></p>
 
-### Monday, November 4, 2024
+<p style="font-size: 16px;">09:30 AM <i>Team Learning Primer</i></p>
 
-08:00 AM - 09:00 AM Breakfast/Check In
+<p style="font-size: 16px;">10:05 AM <i>Breakout Groups Session 1</i></p>
 
-09:00 AM - 09:25 AM Welcome and Intros
+<p style="font-size: 16px;">11:00 AM <i>All-Hands Session 1</i></p>
 
-09:30 AM - 10:00 AM Team Learning Primer
+<p style="font-size: 16px;">12:00 PM <i>Lunch</i></p>
 
-10:05 AM - 10:55 AM Breakout Groups Session 1
+<p style="font-size: 16px;">01:05 PM <i>Breakout Groups Session 2</i></p>
 
-11:00 AM - 12:55 PM All-Hands Session 1
+<p style="font-size: 16px;">03:00 PM <i>All-Hands Session 2</i></p>
 
-12:00 PM - 01:00 PM Lunch
+<p style="font-size: 16px;">04:05 PM <i>Publication Opportunities</i></p>
 
-01:05 PM - 02:55 PM Breakout Groups Session 2
 
-03:00 PM - 04:00 PM All-Hands Session 2
+#### Tuesday, November 5, 2024
+<p></p>
+<p style="font-size: 16px;">08:00 AM <i>Breakfast</i></p>
 
-04:05 PM - 05:00 PM Publication Opportunities 
+<p style="font-size: 16px;">08:30 AM <i>Synthesis</i></p>
 
-### Tuesday, November 5, 2024
+<p style="font-size: 16px;">09:05 AM <i>GitHub Repo Management</i></p>
 
-08:00 AM - 08:30 AM Breakfast
+<p style="font-size: 16px;">11:10 AM <i>Reimbursement Guidance</i></p>
 
-08:30 AM - 09:00 AM Synthesis
+<p style="font-size: 16px;">11:25 AM <i>Closing Remarks</i></p>
 
-09:05 AM - 11:05 AM GitHub Repo Management
-
-11:10 AM - 11:20 AM Reimbursement Guidance
-
-11:25 AM - 11:55 AM Closing Remarks
-
-12:00 PM Box Lunch/End
-
+<p style="font-size: 16px;">12:00 PM <i>Box Lunch/End</i></p>
 
 
