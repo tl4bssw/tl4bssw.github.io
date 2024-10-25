@@ -1,10 +1,13 @@
 # main links
 main:
   - title: "Agenda"
+    description: "Breakdown of activities by day"
     url: https://tl4bssw.github.io/agenda/
   - title: "Location"
+    description: "Where to go"
     url: https://tl4bssw.github.io/location/
   - title: "Materials"
+    description: "Files used during workshop"
     url: https://tl4bssw.github.io/materials/
   # - title: "Sample Collections"
   #   url: /collection-archive/
