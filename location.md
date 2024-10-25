@@ -4,7 +4,7 @@ author_profile: true
 title: Workshop Locations
 ---
 
-<b>Institute for Simulation and Training (IST)</b>
+<b><a href = "https://www.ist.ucf.edu/">Institute for Simulation and Training</a> (IST)</b>
 
 <p style="font-size: 16px;">
 IST is located in Central Florida Research Park just off of UCF's main campus.<br><br>
@@ -20,7 +20,7 @@ Orlando, FL 32826
 <i>Facilities</i>: Near elevators and stairwell
 </p>
 
-<b>The Celeste Hotel</b>
+<a href = "https://thecelestehotel.com/"><b>The Celeste Hotel</b></a>
 
 <p style="font-size: 16px;">
 The Celeste is located on UCF campus.<br><br>
