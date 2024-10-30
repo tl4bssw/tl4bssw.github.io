@@ -11,7 +11,7 @@ title: Workshop Agenda
 
 #### Monday, November 4, 2024
 <p></p>
-<p style="font-size: 16px;">08:00 AM - <i>Breakfast/Check In</i></p>
+<p style="font-size: 16px;">08:00 AM - <i>Breakfast and Check In</i></p>
 
 <p style="font-size: 16px;">09:00 AM - <i>Welcome and Intros</i></p>
 
@@ -32,6 +32,8 @@ title: Workshop Agenda
 <ul style="font-size: 16px;"> <li>2:45 PM - Coffee Break</li></ul>
 
 <p style="font-size: 16px;">04:05 PM - <i>Publication Opportunities</i></p>
+
+<p style="font-size: 16px;">05:00 PM - <i>End</i></p>
 
 #### Tuesday, November 5, 2024
 <p></p>

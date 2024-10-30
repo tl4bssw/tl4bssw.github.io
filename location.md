@@ -23,7 +23,7 @@ Orlando, FL 32826
 <a href = "https://thecelestehotel.com/"><b>The Celeste Hotel</b></a>
 
 <p style="font-size: 16px;">
-The Celeste is located on UCF campus.<br><br>
+The Celeste is located on UCF's main campus.<br><br>
 4105 N Alafaya Trail <br>
 Orlando, FL 32826
 </p>
