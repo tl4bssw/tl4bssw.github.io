@@ -9,7 +9,7 @@ main:
   - title: "Materials"
     description: "Files used during workshop"
     url: https://tl4bssw.github.io/materials/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Participants"
+    url: https://tl4bssw.github.io/participants/
   # - title: "Sitemap"
   #   url: /sitemap/
