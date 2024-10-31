@@ -9,7 +9,7 @@ title: Workshop Participants
 <br>
 <strong>Contributors:</strong>  <br>
 
-Chris Lenhardt,	<i>Renaissance Computing Institute</i><br>
+Chris Lenhardt,	<i>Renaissance Computing Institute at the University of North Carolina-Chapel Hill</i><br>
 Elaine Raybourn, <i>Sandia National Laboratories</i><br>
 Giovani Diaz Alfaro, <i>University of Central Florida</i><br>
 Hana Frluckaj, <i>University of Texas-Austin</i><br>
