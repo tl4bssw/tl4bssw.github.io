@@ -3,7 +3,6 @@ layout: single
 author_profile: true
 title: Workshop Agenda
 ---
-
 #### Sunday, November 3, 2024
 <p></p>
 <p style="font-size: 16px;"><i>Arrive in Orlando, Florida</i></p>
@@ -27,9 +26,9 @@ title: Workshop Agenda
 
 <p style="font-size: 16px;">01:05 PM - <i>Breakout Groups Session 2</i></p>
 
-<p style="font-size: 16px;">03:00 PM - <i>All-Hands Session 2</i></p>
-
 <ul style="font-size: 16px;"> <li>2:45 PM - Coffee Break</li></ul>
+
+<p style="font-size: 16px;">03:00 PM - <i>All-Hands Session 2</i></p>
 
 <p style="font-size: 16px;">04:05 PM - <i>Publication Opportunities</i></p>
 
