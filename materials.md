@@ -4,15 +4,20 @@ author_profile: true
 title: Workshop Materials
 ---
 #### Breakout Group Materials
-
-* Google Drive Folder
+<p style="font-size: 18px;">
+	<ul><li>Google Drive Folder</li></ul>
+</p>
 
 #### Team Learning Literature 
-
-* Google Drive Folder
-* Zotero Group
+<p style="font-size: 18px;">
+<ul><li>Google Drive Folder</li>
+<li>Zotero Group</li>
+</ul>
+</p>
 
 #### Team Learning Measures 
-
-* Measure Items 
-* Network Visualization
+<p style="font-size: 18px;">
+<ul><li>Measure Items</li> 
+<li>Network Visualization</li>
+</ul>
+</p>
