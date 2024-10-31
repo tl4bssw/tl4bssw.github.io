@@ -12,6 +12,8 @@ title: Workshop Agenda
 <p></p>
 <p style="font-size: 16px;">08:00 AM - <i>Breakfast and Check In</i></p>
 
+<ul style="font-size: 16px;"> <li>Room: P2-208</li></ul>
+
 <p style="font-size: 16px;">09:00 AM - <i>Welcome and Intros</i></p>
 
 <p style="font-size: 16px;">09:30 AM - <i>Team Learning Primer</i></p>
@@ -37,6 +39,8 @@ title: Workshop Agenda
 #### Tuesday, November 5, 2024
 <p></p>
 <p style="font-size: 16px;">08:00 AM - <i>Breakfast</i></p>
+
+<ul style="font-size: 16px;"> <li>Room: P2-141</li></ul>
 
 <p style="font-size: 16px;">08:30 AM - <i>Synthesis</i></p>
 
