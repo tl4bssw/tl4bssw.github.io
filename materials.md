@@ -4,11 +4,13 @@ author_profile: true
 title: Workshop Materials
 ---
 #### Breakout Group Materials
+
 <p style="font-size: 18px;">
 	<ul><li>Google Drive Folder</li></ul>
 </p>
 
 #### Team Learning Literature 
+
 <p style="font-size: 18px;">
 <ul><li>Google Drive Folder</li>
 <li>Zotero Group</li>
