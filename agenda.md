@@ -10,7 +10,8 @@ title: Workshop Agenda
 
 #### Monday, November 4, 2024
 <p></p>
-<p style="font-size: 16px;">08:00 AM - <i>Breakfast and Check In</i></p>
+
+<p style="font-size: 16px;">08:00 AM - <i>Check In and Breakfast (provided by UCF Catering)</i></p>
 
 <ul style="font-size: 16px;"> <li>Room: P2-208</li></ul>
 
@@ -20,15 +21,15 @@ title: Workshop Agenda
 
 <p style="font-size: 16px;">10:05 AM - <i>Breakout Groups Session 1</i></p>
 
-<ul style="font-size: 16px;"> <li>10:45 AM - Coffee Break</li></ul>
+<ul style="font-size: 16px;"> <li>10:45 AM - Coffee Break (provided by UCF Catering)</li></ul>
 
 <p style="font-size: 16px;">11:00 AM - <i>All-Hands Session 1</i></p>
 
-<p style="font-size: 16px;">12:00 PM - <i>Lunch</i></p>
+<p style="font-size: 16px;">12:00 PM - <i>Lunch (provided by UCF Catering)</i></p>
 
 <p style="font-size: 16px;">01:05 PM - <i>Breakout Groups Session 2</i></p>
 
-<ul style="font-size: 16px;"> <li>2:45 PM - Coffee Break</li></ul>
+<ul style="font-size: 16px;"> <li>2:45 PM - Coffee Break (provided by UCF Catering)</li></ul>
 
 <p style="font-size: 16px;">03:00 PM - <i>All-Hands Session 2</i></p>
 
