@@ -18,6 +18,6 @@ Lois Curfman McInnes, <i>Argonne National Laboratory</i><br>
 Mehmet Aydeniz,	<i>University of Tennessee</i><br>
 Mohammed Almtuairi, <i>University of Notre Dame</i><br>
 Reed Milewicz, <i>Sandia National Laboratories</i><br>
-Sanket PATOLE, <i>University of Texas-Tyler</i><br>
+Sanket Ramchandra PATOLE, <i>University of Texas-Tyler</i><br>
 Zeinab Serhan, <i>Arizona State University</i><br>
 </p>

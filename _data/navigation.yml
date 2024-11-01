@@ -10,6 +10,7 @@ main:
     description: "Files used during workshop"
     url: https://tl4bssw.github.io/materials/
   - title: "Participants"
+    description: "List of people involved in workshop"
     url: https://tl4bssw.github.io/participants/
   # - title: "Sitemap"
   #   url: /sitemap/
