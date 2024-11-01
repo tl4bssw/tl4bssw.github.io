@@ -23,3 +23,18 @@ title: Workshop Materials
 <li>Network Visualization</li>
 </ul>
 </p>
+
+#### Team Science Literature 
+
+<p style="font-size: 18px;">
+<ul><li>Google Drive Folder</li>
+<li>Zotero Group</li>
+</ul>
+</p>
+
+#### ABCs of Interdisciplinarity
+
+<p style="font-size: 18px;">
+<ul><li>Essay by Stephen M. Fiore</li>
+</ul>
+</p>
