@@ -3,6 +3,7 @@ layout: single
 author_profile: true
 title: Workshop Participants
 ---
+<img src="{{ '/assets/images/contributors.png' | prepend: site.baseurl }}" class = "rounded-corners" align="right"> 
 <p style="font-size: 18px;">
 <strong>Organizer:</strong> Olivia B. Newton, <i>University of Central Florida</i>
 <br>

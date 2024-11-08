@@ -27,6 +27,6 @@ title: Workshop Materials
 #### ABCs of Interdisciplinarity
 
 <p style="font-size: 18px;">
-<ul><li><a href="https://csl.ist.ucf.edu/Portals/3/INGRoup_Essays_on_Interdisciplinarity_Oct2022/INGRoup%20ABCs%20of%20Interdisciplinary%20Research.pdf">Short Essay</a> by <a href = "https://csl.ist.ucf.edu/People"> Stephen M. Fiore, Ph.D.</a></li>
+<ul><li><a href = "https://csl.ist.ucf.edu/Portals/3/INGRoup_Essays_on_Interdisciplinarity_Oct2022/INGRoup%20ABCs%20of%20Interdisciplinary%20Research.pdf">Short Essay</a> by <a href = "https://csl.ist.ucf.edu/People"> Stephen M. Fiore, Ph.D.</a></li>
 </ul>
 </p>
