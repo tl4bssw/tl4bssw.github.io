@@ -6,7 +6,7 @@ title: Workshop Materials
 #### Breakout Group Materials
 
 <p style="font-size: 18px;">
-	<ul><li>Google Drive Folder</li></ul>
+	<ul><li><a href = "https://docs.google.com/presentation/d/1vOYCjNDkqGuyCwBVX_5xZTeUu0gqXOOAdtUVDTXULrQ/edit?usp=sharing">Task Instructions Template</a></li></ul>
 </p>
 
 #### Team Learning Literature 
@@ -19,14 +19,14 @@ title: Workshop Materials
 
 #### Team Learning Measures 
 <p style="font-size: 18px;">
-<ul><li>Measure Items</li> 
-<li>Network Visualization</li>
+<ul><li><a href = "https://docs.google.com/spreadsheets/d/1iAShCwYc8gua7uxyCtASpVE__o660ak-Y3AgDTtbg1k/edit?usp=sharing">Measure Items</a></li> 
+<li><a href = "https://small0live.github.io/network.html">Network Visualization</a></li>
 </ul>
 </p>
 
 #### ABCs of Interdisciplinarity
 
 <p style="font-size: 18px;">
-<ul><li>Essay by Stephen M. Fiore</li>
+<ul><li><a href="https://csl.ist.ucf.edu/Portals/3/INGRoup_Essays_on_Interdisciplinarity_Oct2022/INGRoup%20ABCs%20of%20Interdisciplinary%20Research.pdf">Short Essay</a> by <a href = "https://csl.ist.ucf.edu/People"> Stephen M. Fiore, Ph.D.</a></li>
 </ul>
 </p>
