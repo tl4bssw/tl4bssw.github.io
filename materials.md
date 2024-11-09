@@ -11,7 +11,7 @@ title: Workshop Materials
 
 #### Team Learning Literature 
 
-<p style="font-size: 18px;">
+<p style="font-size: 18px;"><ul>
 <li><a href="https://www.zotero.org/groups/5742091/tl4bssw">Zotero Group</a></li>
 </ul>
 </p>
