@@ -14,7 +14,9 @@ title: Resources for Teams
 
 "*Software with a large computational component. Further, scientific software is usually developed by multidisciplinary teams made up of scientists and software developers*" (Kanewala & Bieman, 2014)
 
-"*Software that aids in research, testing or design of scientific models that are used to explain and predict the behavior of real objects or systems in a variety of scientific disciplines*" Shakya et al., 2020)
+"*Software that aids in research, testing or design of scientific models that are used to explain and predict the behavior of real objects or systems in a variety of scientific disciplines*" (Shakya et al., 2020)
 
 
 #### What makes teams in scientific computing unique?
+
+We contend that teams in scientific computing can and should be differentiated from scientific teams and software development teams. 
