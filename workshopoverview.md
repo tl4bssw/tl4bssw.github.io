@@ -26,7 +26,7 @@ All participants met after each breakout session to present their proposals and 
 During day 2 of the workshop, participants engaged in discussion and reflection on (1) the prior day's activities, (2) opportunities for mentorship, publications, and community engagement, and (3) maintaining a focus on the needs and requirements of scientific software teams. 
 A preliminary synthesis of workshop themes and products resulted in the identification of three complementary and interdependent areas of work: general guidelines, scenario-based interventions, and tools. 
 <br><br>
-Workshop participants communicated the value of workshop topic for scientific software and affirmed their commitment to continued collaboration.
+Workshop participants communicated the value of the workshop topic for scientific software and affirmed their commitment to continued collaboration.
 Related, one publication with all workshop participants as co-authors is planned for submission to a computing science and engineering venue. 
 An informal plan was established to explore other opportunities for additional publications, including, for example, extension of workshop position papers. 
 <br><br>
