@@ -4,30 +4,33 @@ author_profile: true
 title: Resources for Teams
 ---
 
-This section of the website, and links contained within it, is intended to serve as a living 'document' containing resources on team learning and scientific software. 
+<p style="font-size: 16px;">This section of the website, and links contained within it, is intended to serve as a living 'document' containing resources on team learning and scientific software. </p>
 
 
 ### Team Learning
-
-"*The acquisition of knowledge, skills, and performance capabilities of an interdependent set of individuals through interaction and experience [...] a team-level property that captures the collective knowledge pool, potential synergies among team members, and unique contributions*" (Kozlowski & Ilgen, 2006)
-
+<p style="font-size: 16px;">
+"<i>The acquisition of knowledge, skills, and performance capabilities of an interdependent set of individuals through interaction and experience [...] a team-level property that captures the collective knowledge pool, potential synergies among team members, and unique contributions</i>" (Kozlowski & Ilgen, 2006)
+</p>
 
 ### Scientific Software
 
-
-"*Software with a large computational component. Further, scientific software is usually developed by multidisciplinary teams made up of scientists and software developers*" (Kanewala & Bieman, 2014)
-
-"*Software that aids in research, testing or design of scientific models that are used to explain and predict the behavior of real objects or systems in a variety of scientific disciplines*" (Shakya et al., 2020)
-
+<p style="font-size: 16px;">
+"<i>Software with a large computational component. Further, scientific software is usually developed by multidisciplinary teams made up of scientists and software developers</i>" (Kanewala & Bieman, 2014)
+<br> <br>
+"<i>Software that aids in research, testing or design of scientific models that are used to explain and predict the behavior of real objects or systems in a variety of scientific disciplines</i>" (Shakya et al., 2020)
+</p>
 ##### Why scientific software and why now?
 
 ### What makes teams in scientific computing unique?
 
+<p style="font-size: 16px;">
 We contend that teams in scientific computing can and should be differentiated from scientific teams and software development teams. 
 Unique characteristics of scientific software projects and teams includes, but is not limited to, differences in:
-* Team member education and training
-* Integration of academic student work
-* Project goals 
-* Funding landscape
+<ul style="font-size: 16px;"> <li>Team member education and training</li>
+<li>Integration of academic student work</li>
+<li>Project goals</li>
+<li>Funding landscape</li>
+</ul>
+</p>
 
 
