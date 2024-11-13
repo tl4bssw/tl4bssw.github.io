@@ -1,19 +1,19 @@
 # main links
 main:
-  - title: "Agenda"
-    description: "Breakdown of activities by day"
-    url: https://tl4bssw.github.io/agenda/
-  - title: "Location"
-    description: "Where to go"
-    url: https://tl4bssw.github.io/location/
-  - title: "Materials"
-    description: "Files used during workshop"
-    url: https://tl4bssw.github.io/materials/
-  - title: "Participants"
-    description: "List of people involved in workshop"
-    url: https://tl4bssw.github.io/participants/
-  - title: "Resources"
-    description: "Resources for Teams"
+  - title: "Workshop Overview"
+    description: ""
+    url: https://tl4bssw.github.io/workshopoverview/
+  - title: "Resources for Teams"
+    description: ""
     url: https://tl4bssw.github.io/teamresources/
+  #- title: "Materials"
+  #  description: "Files used during workshop"
+  #  url: https://tl4bssw.github.io/materials/
+  #- title: "Participants"
+  #  description: "List of people involved in workshop"
+  #  url: https://tl4bssw.github.io/participants/
+  #- title: "Resources"
+  #  description: "Resources for Teams"
+  #  url: https://tl4bssw.github.io/teamresources/
   # - title: "Sitemap"
   #   url: /sitemap/
