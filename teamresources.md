@@ -13,7 +13,9 @@ title: Resources for Teams
 "<i>The acquisition of knowledge, skills, and performance capabilities of an interdependent set of individuals through interaction and experience [...] a team-level property that captures the collective knowledge pool, potential synergies among team members, and unique contributions</i>" (Kozlowski & Ilgen, 2006)
 </p>
 
-Here the focus is on the processes and behaviors of team members which reflect learning at the group level. A number of definitions are offered in the literature which emphasize the sharing, integrative, and reflective processes that constitute team learning. Although a single definition is provided here, a set of definitions is collected and available at this link. 
+Here the focus is on the processes and behaviors of team members which reflect learning at the group level. A number of definitions are offered in the literature which emphasize the sharing, integrative, and reflective processes that constitute team learning. Although a single definition is provided here, a set of definitions is collected and available at <a href = "https://docs.google.com/spreadsheets/d/1WiIX490If0z7OzW1-Y9wLezDakIieydHgn1y6EAnQuM/edit?usp=sharing">this link</a>. 
+
+To support team performance and software outcomes, it is important to measure and evaluate how teams engage in learning throughout their collaboration. A number of instruments have been developed to measure team learning. These measures are based on varying conceptualizations of team learning and thus capture a variety of processes and behaviors. Importantly, the majority of these measures have been developed to assess team learning across different types of teams. In other words, these measures have not been developed with the specific needs or requirements of scientific software teams in mind. Furthermore, temporal aspects of team learning are not well understood and remain understudied (Wiese & Burke, 2019). 
 
 ### Scientific software
 
@@ -41,6 +43,8 @@ Unique characteristics of scientific software projects and teams include, but ar
 ### Team learning for better scientific software
 
 ##### Team learning during team formation
+
+Drawing from conceptualizations of team development, we suggest that a subset of team learning processes and behaviors are of particular important in the team formation stage.
 
 ##### AI for team learning
 
