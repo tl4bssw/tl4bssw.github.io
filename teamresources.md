@@ -39,3 +39,12 @@ Unique characteristics of scientific software projects and teams include, but ar
 
 
 ### Team learning for better scientific software
+
+##### Team learning during team formation
+
+##### AI for team learning
+
+##### Team learning in multi-team systems
+
+
+
