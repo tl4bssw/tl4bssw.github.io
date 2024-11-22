@@ -54,9 +54,9 @@ Unique characteristics of scientific software projects and teams include, but ar
 <p style="font-size: 16px;">Drawing from conceptualizations of team development, we suggest that a subset of team learning processes and behaviors are of particular important in the team formation stage.</p>
 
 <i>AI for team learning</i>
-
+<p style="font-size: 16px;"></p>
 <i>Team learning in multi-team systems</i>
-
+<p style="font-size: 16px;"></p>
 </details>
 
 
