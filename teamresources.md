@@ -42,7 +42,7 @@ We generally adopt the definitions of scientific software which are provided abo
 
 
 <details>
-<summary><strong>What makes teams in scientific computing unique?</strong></summary>
+<summary><i>What makes teams in scientific computing unique?</i></summary>
 
 <p style="font-size: 16px;">
 We contend that teams in scientific computing can and should be differentiated from scientific teams and software development teams. 
@@ -62,7 +62,7 @@ Unique characteristics of scientific software projects and teams include, but ar
 
 <i>Team learning during team formation</i>
 
-<p style="font-size: 16px;">Drawing from conceptualizations of team development, we suggest that a subset of team learning processes and behaviors are of particular important in the team formation stage.</p>
+<p style="font-size: 16px;">Drawing from conceptualizations of team development, we suggest that a subset of team learning processes and behaviors are of particular importance in the team formation stage.</p>
 
 <i>AI for team learning</i>
 <p style="font-size: 16px;"></p>
