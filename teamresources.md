@@ -4,7 +4,11 @@ author_profile: true
 title: Resources for Teams
 ---
 
-<p style="font-size: 16px;">This section of the website, and links contained within it, is intended to serve as a living 'document' containing resources on team learning and scientific software. <br><br>The content on these webpages is based, in part, on proposals developed by <a href = "{{ '/participants' | prepend: site.baseurl }}">workshop participants</a>. It is thus informed by their expertise and experience in addition to existing theoretical and empirical work on the associated topics. <br><br><i>Content is organized below by section. Click on a section to expand and view content.</i></p>
+<p style="font-size: 16px;">This section of the website, and links contained within it, is intended to serve as a living 'document' containing resources on team learning and scientific software. <br><br>
+
+The content on these webpages is based, in part, on proposals developed by <a href = "{{ '/participants' | prepend: site.baseurl }}">workshop participants</a>. It is thus informed by their expertise and experience in addition to existing theoretical and empirical work on the associated topics. <br><br>
+
+<i>Content is organized below by section. Click on a section to expand and view content.</i></p>
 
 <details>
 <summary><strong>Team learning</strong></summary>
@@ -14,6 +18,7 @@ title: Resources for Teams
 <br><br>
 Here the focus is on the processes and behaviors of team members which reflect learning at the group level. A number of definitions are offered in the literature which emphasize the sharing, integrative, and reflective processes that constitute team learning. Although a single definition is provided above, a set of definitions is collected and available at <a href = "https://docs.google.com/spreadsheets/d/1WiIX490If0z7OzW1-Y9wLezDakIieydHgn1y6EAnQuM/edit?usp=sharing">this link</a>. 
 <br><br>
+
 To support team performance and software outcomes, it is important to measure and evaluate how teams engage in learning throughout their collaboration. A number of instruments have been developed to measure team learning. These measures are available at <a href = "https://docs.google.com/spreadsheets/d/1iAShCwYc8gua7uxyCtASpVE__o660ak-Y3AgDTtbg1k/edit?usp=sharing">this link</a>. These measures are based on varying conceptualizations of team learning and thus capture a variety of processes and behaviors. Importantly, the majority of these measures have been developed to assess team learning across different types of teams. In other words, these measures have not been developed with the specific needs or requirements of scientific software teams in mind. Furthermore, temporal aspects of team learning are not well understood and remain understudied (<a href = "https://doi.org/10.3389/fpsyg.2019.01417">Wiese & Burke, 2019</a>). In the <i>Team learning for better scientific software</i> section below, guidance on team learning for this domain and across project stages is offered.
 </p>
 </details>
