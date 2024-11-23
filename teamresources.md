@@ -47,7 +47,7 @@ We adopt the definitions of scientific software which are provided above. As the
 <summary><i>What makes teams in scientific computing unique?</i></summary>
 
 <p style="font-size: 16px;">
-We contend that teams in scientific computing can and should be differentiated from scientific teams and software development teams. 
+We contend that teams in scientific computing can and should be differentiated from traditional scientific teams and software development teams. 
 Unique characteristics of scientific software projects and teams include, but are not limited to, differences in:
 <ul style="font-size: 16px;"> <li>Team member education and training</li>
 <li>Integration of academic work</li>
