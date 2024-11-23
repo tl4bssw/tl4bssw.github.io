@@ -13,7 +13,7 @@ The content on these webpages is based, in part, on proposals developed by <a hr
 <details>
 <summary><strong>Team learning</strong></summary>
 <p style="font-size: 16px;">
-"<i>The acquisition of knowledge, skills, and performance capabilities of an interdependent set of individuals through interaction and experience [...] a team-level property that captures the collective knowledge pool, potential synergies among team members, and unique contributions</i>" (<a href = "https://doi.org/10.1111/j.1529-1006.2006.00030.x">Kozlowski & Ilgen, 2006</a>)
+"<i>The acquisition of knowledge, skills, and performance capabilities of an interdependent set of individuals through interaction and experience [...] a team-level property that captures the collective knowledge pool, potential synergies among team members, and unique contributions.</i>" (<a href = "https://doi.org/10.1111/j.1529-1006.2006.00030.x">Kozlowski & Ilgen, 2006</a>)
 
 <br><br>
 Here the focus is on the processes and behaviors of team members which reflect learning at the group level. A number of definitions are offered in the literature which emphasize the sharing, integrative, and reflective processes that constitute team learning. Although a single definition is provided above, a set of definitions is collected and available at <a href = "https://docs.google.com/spreadsheets/d/1WiIX490If0z7OzW1-Y9wLezDakIieydHgn1y6EAnQuM/edit?usp=sharing">this link</a>. 
@@ -27,10 +27,12 @@ To support team performance and software outcomes, it is important to measure an
 <summary><strong>Scientific software</strong></summary>
 
 <p style="font-size: 16px;">
-"<i>Software with a large computational component. Further, scientific software is usually developed by multidisciplinary teams made up of scientists and software developers</i>" (Kanewala & Bieman, 2014)
+"<i>Software with a large computational component. Further, scientific software is usually developed by multidisciplinary teams made up of scientists and software developers.</i>" (<a href = "https://doi.org/10.1016/j.infsof.2014.05.006">Kanewala & Bieman, 2014</a>)
 <br> <br>
-"<i>Software that aids in research, testing or design of scientific models that are used to explain and predict the behavior of real objects or systems in a variety of scientific disciplines</i>" (Shakya et al., 2020)
+"<i>Software that aids in research, testing or design of scientific models that are used to explain and predict the behavior of real objects or systems in a variety of scientific disciplines.</i>" (<a href = "https://publish.tntech.edu/index.php/PSRCI/article/view/679">Shakya et al., 2020</a>)
 </p>
+
+As the definitions provide above suggest, scientific software encompasses many different types of software which are developed and/or used to carry out scientific work. 
 
 <i>Why scientific software and why now?</i>
 
