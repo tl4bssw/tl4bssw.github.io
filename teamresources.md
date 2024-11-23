@@ -6,7 +6,7 @@ title: Resources for Teams
 
 <p style="font-size: 16px;">This section of the website, and links contained within it, is intended to serve as a living 'document' containing resources on team learning and scientific software. <br><br>
 
-The content on these webpages is based, in part, on proposals developed by <a href = "{{ '/participants' | prepend: site.baseurl }}">workshop participants</a>. It is thus informed by their expertise and experience in addition to existing theoretical and empirical work on the associated topics. The content presented here will be updated and refined over time based on emerging work on team learning in scientific computing projects. Additionally, contributions from individuals and collectives with expertise in this topic area are invited. If you would like more information and/or are interested in contributing, please contact Olivia Newton via email: onewton[at]sigsoft.org.<br><br>
+The content on these webpages is based, in part, on proposals developed by <a href = "{{ '/participants' | prepend: site.baseurl }}">workshop participants</a>. It is thus informed by their expertise and experience in addition to existing theoretical and empirical work on the associated topics. The content presented here will be updated and refined over time based on emerging work on team learning in scientific computing projects. Additionally, contributions from individuals and collectives with expertise in this topic area are invited. If you are interested in contributing, please contact Olivia Newton via email onewton[at]sigsoft.org.<br><br>
 
 <i>Content is organized below by section. Click on a section to expand and view content.</i></p>
 
@@ -30,12 +30,15 @@ To support team performance and software outcomes, it is important to measure an
 "<i>Software with a large computational component. Further, scientific software is usually developed by multidisciplinary teams made up of scientists and software developers.</i>" (<a href = "https://doi.org/10.1016/j.infsof.2014.05.006">Kanewala & Bieman, 2014</a>)
 <br> <br>
 "<i>Software that aids in research, testing or design of scientific models that are used to explain and predict the behavior of real objects or systems in a variety of scientific disciplines.</i>" (<a href = "https://publish.tntech.edu/index.php/PSRCI/article/view/679">Shakya et al., 2020</a>)
+<br><br>
+
+We generally adopt the definitions of scientific software which are provided above. As these definitions suggest, scientific software encompasses many different types of software which are developed and/or used to carry out scientific work. 
 </p>
 
-As the definitions provide above suggest, scientific software encompasses many different types of software which are developed and/or used to carry out scientific work. 
-
-<i>Why scientific software and why now?</i>
-
+<details>
+<summary><i>Why scientific software and why now?</i></summary>
+<p style="font-size: 16px;"></p>
+</details>
 </details>
 
 <details>
