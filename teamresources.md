@@ -32,13 +32,20 @@ To support team performance and software outcomes, it is important to measure an
 "<i>Software that aids in research, testing or design of scientific models that are used to explain and predict the behavior of real objects or systems in a variety of scientific disciplines.</i>" (<a href = "https://publish.tntech.edu/index.php/PSRCI/article/view/679">Shakya et al., 2020</a>)
 <br><br>
 
-We generally adopt the definitions of scientific software which are provided above. As these definitions suggest, scientific software encompasses many different types of software which are developed and/or used to carry out scientific work. 
+We adopt the definitions of scientific software which are provided above. As the definitions suggest, scientific software encompasses many different types of software which are developed and/or used to carry out scientific work. We draw attention to the following components of these definitions: collaboration across disciplines; computational requirements; and scientific goals.
+
 </p>
 
 <details>
 <summary><i>Why scientific software and why now?</i></summary>
-<p style="font-size: 16px;"></p>
+
+<p style="font-size: 16px;"> The landscape of science and software is changing such that there is now a growing need (and more opportunities) to explore the collaborative development and use of scientific software. The demand for scientific software is greater than ever, and what 'used to work' doesn't necessarily work anymore (e.g., individual work, software not necessarily well done or well maintained). The shift towards open science, data, and code, and associated values has also contributed to the need to improve scientific software. Along with the increasing reliance on collaborative rather than indepedent work, teams are increasingly multidisciplinary, even if just in one scientific domain, and they focus on addressing large, complicated, and multi-dimensional problems. In sum, greater openness, greater complexity, and greater interdisciplinarity have enabled the emergence and growth of this area.
+.</p>
 </details>
+
+Scientific software needs are different than the needs for software development more generally (although there is of course overlap)
+Processes are different, funding is different, goals are different (not just creating a product)
+
 
 
 <details>
@@ -49,7 +56,7 @@ We contend that teams in scientific computing can and should be differentiated f
 Unique characteristics of scientific software projects and teams include, but are not limited to, differences in:
 <ul style="font-size: 16px;"> <li>Team member education and training</li>
 <li>Integration of academic student work</li>
-<li>Project goals</li>
+<li>Scientific-focus of project goals</li>
 <li>Funding landscape</li>
 </ul>
 </p>
