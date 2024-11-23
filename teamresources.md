@@ -6,7 +6,7 @@ title: Resources for Teams
 
 <p style="font-size: 16px;">This section of the website, and links contained within it, is intended to serve as a living 'document' containing resources on team learning and scientific software. <br><br>
 
-The content on these webpages is based, in part, on proposals developed by <a href = "{{ '/participants' | prepend: site.baseurl }}">workshop participants</a>. It is thus informed by their expertise and experience in addition to existing theoretical and empirical work on the associated topics. The content presented here will be updated and refined over time based on emerging work on team learning in scientific computing projects. Additionally, contributions from individuals and collectives with expertise in this topic area are invited. If you are interested in contributing, please contact Olivia Newton via email onewton[at]sigsoft.org.<br><br>
+The content on these webpages is based, in part, on proposals developed by <a href = "{{ '/participants' | prepend: site.baseurl }}">workshop participants</a>. It is thus informed by their expertise and experience in addition to existing theoretical and empirical work on the associated topics. The content presented here will be updated and refined over time based on emerging work on team learning in scientific computing projects. Additionally, contributions from individuals and collectives with expertise in this area of work are invited. If you are interested in contributing, please contact Olivia Newton via email onewton[at]sigsoft.org.<br><br>
 
 <i>Content is organized below by section. Click on a section to expand and view content.</i></p>
 
