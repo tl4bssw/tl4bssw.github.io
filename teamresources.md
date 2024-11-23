@@ -39,7 +39,7 @@ We generally adopt the definitions of scientific software which are provided abo
 <summary><i>Why scientific software and why now?</i></summary>
 <p style="font-size: 16px;"></p>
 </details>
-</details>
+
 
 <details>
 <summary><strong>What makes teams in scientific computing unique?</strong></summary>
@@ -54,6 +54,7 @@ Unique characteristics of scientific software projects and teams include, but ar
 </ul>
 </p>
 
+</details>
 </details>
 
 <details>
