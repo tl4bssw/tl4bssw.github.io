@@ -65,7 +65,7 @@ Unique characteristics of scientific software projects and teams include, but ar
 <li>Integration of academic work</li>
 <li>Scientific focus of project goals</li>
 <li>Requirements for scientific software</li>
-<li>Distinct funding landscape</li>
+<li>Funding landscape</li>
 </ul>
 </p>
 
