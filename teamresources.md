@@ -8,7 +8,7 @@ title: Resources for Teams
 
 The content on these webpages is based, in part, on proposals developed by <a href = "{{ '/participants' | prepend: site.baseurl }}">workshop participants</a>. It is informed by the expertise and experience of this group in addition to existing theoretical and empirical work on the associated topics. The content presented here will be updated and refined over time based on emerging work on team learning in collaborative scientific software projects. <br><br>
 
-Further, new sections and subsections are planned as continuations and extensions of proposals developed at the TL4BSSw workshop. Additionally, contributions from individuals and collectives with expertise in this area of work are welcome. If you are interested in contributing and/or opportunities to connect with the TL4BSSw workshop group, please contact Olivia Newton via email onewton[at]sigsoft.org.<br><br>
+New sections and subsections are planned as continuations and extensions of proposals developed at the TL4BSSw workshop. Additionally, contributions from individuals and collectives with expertise in this area of work are welcome. If you are interested in contributing and/or opportunities to connect with the TL4BSSw workshop group, please contact Olivia Newton via email onewton[at]sigsoft.org.<br><br>
 
 <i>Content is organized below by section. Click on section headings to expand and view content.</i></p>
 
