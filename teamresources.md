@@ -6,12 +6,15 @@ title: Resources for Teams
 
 <p style="font-size: 16px;">This section of the website, and links contained within it, is intended to serve as a living 'document' containing resources on team learning and scientific software. <br><br>
 
-The content on these webpages is based, in part, on proposals developed by <a href = "{{ '/participants' | prepend: site.baseurl }}">workshop participants</a>. It is thus informed by their expertise and experience in addition to existing theoretical and empirical work on the associated topics. The content presented here will be updated and refined over time based on emerging work on team learning in scientific computing projects. Additionally, contributions from individuals and collectives with expertise in this area of work are invited. If you are interested in contributing, please contact Olivia Newton via email onewton[at]sigsoft.org.<br><br>
+The content on these webpages is based, in part, on proposals developed by <a href = "{{ '/participants' | prepend: site.baseurl }}">workshop participants</a>. It is thus informed by their expertise and experience in addition to existing theoretical and empirical work on the associated topics. The content presented here will be updated and refined over time based on emerging work on team learning in scientific computing projects. and scientific software. <br><br>
 
-<i>Content is organized below by section. Click on a section to expand and view content.</i></p>
+Further, new sections and subsections are planned as continuations and extensions of proposals developed at the TL4BSSw workshop. Additionally, contributions from individuals and collectives with expertise in this area of work are welcome. If you are interested in contributing and/or opportunities to connect with the TL4BSSw workshop group, please contact Olivia Newton via email onewton[at]sigsoft.org.<br><br>
+
+<i>Content is organized below by section. Click on section headings to expand and view content.</i></p>
 
 <details>
 <summary><strong>Team learning</strong></summary>
+<br>
 <p style="font-size: 16px;">
 "<i>The acquisition of knowledge, skills, and performance capabilities of an interdependent set of individuals through interaction and experience [...] a team-level property that captures the collective knowledge pool, potential synergies among team members, and unique contributions.</i>" (<a href = "https://doi.org/10.1111/j.1529-1006.2006.00030.x">Kozlowski & Ilgen, 2006</a>)
 
@@ -28,7 +31,7 @@ Importantly, the majority of these measures have been developed to assess team l
 
 <details>
 <summary><strong>Scientific software</strong></summary>
-
+<br>
 <p style="font-size: 16px;">
 "<i>Software with a large computational component. Further, scientific software is usually developed by multidisciplinary teams made up of scientists and software developers.</i>" (<a href = "https://doi.org/10.1016/j.infsof.2014.05.006">Kanewala & Bieman, 2014</a>)
 <br> <br>
@@ -66,27 +69,37 @@ Unique characteristics of scientific software projects and teams include, but ar
 
 <details>
 <summary><strong>Team learning for better scientific software</strong></summary>
-
+<br>
 <p style="font-size: 16px;">In this section, guidance and recommendations are offered to support team learning in service of improving team performance and software outcomes. <i>Checklists for sections are currently in development.</i></p>
 
+<details>
+<summary>Team Learning Across Stages of Collaboration</summary>
+<br>
 <i>Team learning during team formation</i>
 
-<p style="font-size: 16px;">Drawing from conceptualizations of team development, we suggest that a subset of team learning processes and behaviors are of particular importance in the team formation stage. During the team formation, group members build interpersonal knowledge and develop a team orientation. This includes establishing "rudimentary" knowledge structures (i.e., shared mental models and transactive memory systems; Kozlowski et al., 1999; Fiore & Georganta, 2017). In this phase, team learning processes for <i>exploration</i>, <i>information sharing</i>, and <i>information management</i> are identified as a critical foundation for collaboration effectiveness and software quality. 
-<br> <br>
+<p style="font-size: 16px;">Drawing from conceptualizations of team development, we suggest that a subset of team learning processes and behaviors are of particular importance in the team formation stage. During the team formation, group members build interpersonal knowledge and develop a team orientation. This includes establishing "rudimentary" knowledge structures (i.e., shared mental models and transactive memory systems; Kozlowski et al., 1999; Fiore & Georganta, 2017). In this phase, team learning processes for <i>exploration</i>, <i>information sharing</i>, and <i>information management</i> are identified as a critical foundation for collaboration effectiveness and software quality.</p>
 
 <ul style="font-size: 16px;"> <li>Exploration processes include, for example, the identification of all relevant shareholders, not just those represented in the team at the time of its formation (e.g., domain scientists, computer scientists, middleware engineers, impacted communities). </li>
 <li>Information sharing processes include, for example, the delivery of, exposure and access to fundamental information about the problem domain in addition to the desired outcomes and goals for each shareholder group. </li>
 <li>Information and knowledge management processes include, for example, the development of a plan and timeline for curation of resources in addition to identification of shareholder needs and access to information over the course of the project. </li>
 </ul>
 
-Ultimately, following team formation, there should be a shared understanding of member proficiencies, knowledge gaps, challenges to learning, and opportunities for learning. While undertaking the aforementioned processes is important during this phase of collaboration, it is insufficient for assessing and facilitating team learning processes over the project lifetime. It is therefore necessary to foster a safe team culture and develop a strategy for team learning, including the coordination of team learning sessions and the operationalization of learning tools. Furthermore, it is necessary to define what constitutes effective learning and performance in the team. This may include the use of iterative and continuous feedback methods and debriefing sessions, the evaluation of tool accessibility and efficacy, and solicitation of external assessments. 
-
-
+<p style="font-size: 16px;">Ultimately, following team formation, there should be a shared understanding of member proficiencies, knowledge gaps, challenges to learning, and opportunities for learning. While undertaking the aforementioned processes is important during this phase of collaboration, it is insufficient for assessing and facilitating team learning processes over the project lifetime. It is therefore necessary to foster a safe team culture and develop a strategy for team learning, including the coordination of team learning sessions and the operationalization of learning tools. Furthermore, it is necessary to define what constitutes effective learning and performance in the team. This may include the use of iterative and continuous feedback methods and debriefing sessions, the evaluation of tool accessibility and efficacy, and solicitation of external assessments. From these approaches, interventions can be designed and customized based on team and project needs.
 </p>
 
-<i>AI for team learning</i>
-<p style="font-size: 16px;"></p>
-<i>Team learning in multi-team systems</i>
+<i>Team learning following conflict</i>
+<p style="font-size: 16px;">This section is in development.</p>
+
+</details>
+
+<details>
+<summary>AI for Team Learning</summary>
+<i>...</i>
+<p style="font-size: 16px;">Advances in artificial intelligence (AI) technologies can potentially be leveraged to support team learning. For example, exploration processes may involve the utilization of  AI for information search. </p>
+</details>
+
+<summary>Team learning in multi-team systems</summary>
+<i>...</i>
 <p style="font-size: 16px;"></p>
 </details>
 
