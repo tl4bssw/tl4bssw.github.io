@@ -67,7 +67,7 @@ Unique characteristics of scientific software projects and teams include, but ar
 <details>
 <summary><strong>Team learning for better scientific software</strong></summary>
 
-<p style="font-size: 16px;">In this section, guidance and recommendations are offered to support team learning in service of improving team performance and software outcomes. </p>
+<p style="font-size: 16px;">In this section, guidance and recommendations are offered to support team learning in service of improving team performance and software outcomes. <i>Checklists for sections are currently in development.</i></p>
 
 <i>Team learning during team formation</i>
 
@@ -79,7 +79,8 @@ Unique characteristics of scientific software projects and teams include, but ar
 <li>Information and knowledge management processes include, for example, the development of a plan and timeline for curation of resources in addition to identification of shareholder needs and access to information over the course of the project. </li>
 </ul>
 
-While undertaking these processes is important during this phase of collaboration, it is insufficient for assessing and facilitating team learning processes over the project lifetime. It is therefore necessary to foster a safe team culture and develop a strategy for team learning, including the coordination of team learning sessions and the operationalization of learning tools. Furthermore, it is necessary to define what constitutes effective learning and performance in the team. This may include the use of iterative feedback methods and debriefing sessions, the evaluation of tool accessibility and efficacy, and solicitation of external assessments. 
+Ultimately, following team formation, there should be a shared understanding of member proficiencies, knowledge gaps, challenges to learning, and opportunities for learning. While undertaking the aforementioned processes is important during this phase of collaboration, it is insufficient for assessing and facilitating team learning processes over the project lifetime. It is therefore necessary to foster a safe team culture and develop a strategy for team learning, including the coordination of team learning sessions and the operationalization of learning tools. Furthermore, it is necessary to define what constitutes effective learning and performance in the team. This may include the use of iterative and continuous feedback methods and debriefing sessions, the evaluation of tool accessibility and efficacy, and solicitation of external assessments. 
+
 
 </p>
 
