@@ -67,7 +67,7 @@ Unique characteristics of scientific software projects and teams include, but ar
 <details>
 <summary><strong>Team learning for better scientific software</strong></summary>
 
-In this section, guidance and recommendations are offered to support team learning in service of improving team performance and software outcomes. 
+<p style="font-size: 16px;">In this section, guidance and recommendations are offered to support team learning in service of improving team performance and software outcomes. </p>
 
 <i>Team learning during team formation</i>
 
