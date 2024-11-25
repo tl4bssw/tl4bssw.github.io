@@ -24,7 +24,7 @@ The focus of this work is on the processes and behaviors of team members which r
 
 <br><br>
 
-Generally, team learning has been found to be a significant predictor of team performance. Members of team perceive team learning as important for performance (<a href ="https://doi.org/10.1108/13527591011090682">Savelsbergh et al., 2010</a>), and the opportunity to learn itself motivates researchers to participate in interdisciplinary collaborations (<a href = "https://doi.org/10.1108/TPM-05-2022-0036">Lotrecchiano et al., 2023</a>; <a href = "https://doi.org/10.1108/TPM-07-2019-0068">Tkachenko & Ardichvili, 2020 </a>). In interdisciplinary teams, learning is linked to the emergence of innovation (Hall et al., 2012) and perceived effectiveness of collaborations (<a href = "https://doi.org/10.1177/10464964221089836">Lorenzetti et al., 2022</a>).
+Generally, team learning has been found to be a significant predictor of team performance. Members of team perceive team learning as important for performance (<a href ="https://doi.org/10.1108/13527591011090682">Savelsbergh et al., 2010</a>), and the opportunity to learn itself motivates researchers to participate in interdisciplinary collaborations (<a href = "https://doi.org/10.1108/TPM-05-2022-0036">Lotrecchiano et al., 2023</a>; <a href = "https://doi.org/10.1108/TPM-07-2019-0068">Tkachenko & Ardichvili, 2020</a>). In interdisciplinary teams, learning is linked to the emergence of innovation (Hall et al., 2012) and perceived effectiveness of collaborations (<a href = "https://doi.org/10.1177/10464964221089836">Lorenzetti et al., 2022</a>).
 
 <br><br>
 
@@ -45,7 +45,7 @@ The majority of these measures have been developed to assess team learning acros
 "<i>Software that aids in research, testing or design of scientific models that are used to explain and predict the behavior of real objects or systems in a variety of scientific disciplines.</i>" (<a href = "https://publish.tntech.edu/index.php/PSRCI/article/view/679">Shakya et al., 2020</a>)
 <br><br>
 
-We adopt the definitions of scientific software which are provided above. As the definitions suggest, scientific software encompasses many different types of software which are developed and/or used to carry out scientific work. We draw attention to the following components of these definitions: collaboration across disciplines; computational requirements; and scientific goals. Greater elaboration on the perspectives of scientific software are offered in the <i>Why scientific software and why now?</i> and <i>What makes teams in scientific computing unique?</i> subsections below.
+We adopt the definitions of scientific software which are provided above. As the definitions suggest, scientific software encompasses many different types of software which are developed and/or used to carry out scientific work. We draw attention to the following components of these definitions: collaboration across disciplines; computational requirements; and scientific goals. Greater elaboration on the group's perspectives on scientific software are offered in the <i>Why scientific software and why now?</i> and <i>What makes teams in scientific computing unique?</i> subsections below.
 
 </p>
 
