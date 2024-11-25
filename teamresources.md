@@ -51,14 +51,14 @@ We adopt the definitions of scientific software which are provided above. As the
 
 <details>
 <summary><i>Why scientific software and why now?</i></summary>
-
+<br>
 <p style="font-size: 16px;"> The landscape of science and software is changing such that there is now a growing need (and more opportunities) to explore the collaborative development and use of scientific software. Technological advances and complex computation have created a significant need for this research. The demand for scientific software is greater than ever, and what 'used to work' doesn't necessarily work anymore. The shift towards open science, data, and code, and associated values, has also contributed to the need to improve scientific software. Along with the increasing reliance on collaborative rather than independent work, teams are increasingly multidisciplinary, even if in just one scientific domain, and they focus on addressing large, complicated, and multi-dimensional problems. In sum, greater openness, greater complexity, and greater interdisciplinarity have enabled the emergence and growth of this area.
 .</p>
 </details>
 
 <details>
 <summary><i>What makes teams in scientific computing unique?</i></summary>
-
+<br>
 <p style="font-size: 16px;">
 We contend that teams in scientific computing can and should be differentiated from traditional scientific teams and software development teams. 
 Unique characteristics of scientific software projects and teams include, but are not limited to, differences in:
@@ -106,7 +106,7 @@ Unique characteristics of scientific software projects and teams include, but ar
 <p style="font-size: 16px;">Advances in artificial intelligence (AI) technologies can potentially be leveraged to support team learning. For example, exploration processes may involve the utilization of  AI for information search. Here the idea is to identify opportunities where AI tools and agents can facilitate team learning. </p>
 
 <i>A framework for AI in teams </i>
-<p style="font-size: 16px;">Planned section</p>
+<p style="font-size: 16px;"><i>Planned section</i></p>
 
 </details>
 
