@@ -6,7 +6,7 @@ title: Resources for Teams
 
 <p style="font-size: 16px;">This section of the website, and links contained within it, is intended to serve as a living 'document' containing resources on team learning and scientific software. <br><br>
 
-The content on these webpages is based, in part, on proposals developed by <a href = "{{ '/participants' | prepend: site.baseurl }}">workshop participants</a>. It is thus informed by their expertise and experience in addition to existing theoretical and empirical work on the associated topics. The content presented here will be updated and refined over time based on emerging work on team learning in scientific computing projects. and scientific software. <br><br>
+The content on these webpages is based, in part, on proposals developed by <a href = "{{ '/participants' | prepend: site.baseurl }}">workshop participants</a>. It is informed by expertise and experience of this group in addition to existing theoretical and empirical work on the associated topics. The content presented here will be updated and refined over time based on emerging work on team learning in collaborative scientific software projects. <br><br>
 
 Further, new sections and subsections are planned as continuations and extensions of proposals developed at the TL4BSSw workshop. Additionally, contributions from individuals and collectives with expertise in this area of work are welcome. If you are interested in contributing and/or opportunities to connect with the TL4BSSw workshop group, please contact Olivia Newton via email onewton[at]sigsoft.org.<br><br>
 
@@ -73,11 +73,11 @@ Unique characteristics of scientific software projects and teams include, but ar
 <p style="font-size: 16px;">In this section, guidance and recommendations are offered to support team learning in service of improving team performance and software outcomes. <i>Checklists for sections are currently in development.</i></p>
 
 <details>
-<summary>Team Learning Across Stages of Collaboration</summary>
+<summary>Team learning across stages of collaboration</summary>
 <br>
 <i>Team learning during team formation</i>
 
-<p style="font-size: 16px;">Drawing from conceptualizations of team development, we suggest that a subset of team learning processes and behaviors are of particular importance in the team formation stage. During the team formation, group members build interpersonal knowledge and develop a team orientation. This includes establishing "rudimentary" knowledge structures (i.e., shared mental models and transactive memory systems; Kozlowski et al., 1999; Fiore & Georganta, 2017). In this phase, team learning processes for <i>exploration</i>, <i>information sharing</i>, and <i>information management</i> are identified as a critical foundation for collaboration effectiveness and software quality.</p>
+<p style="font-size: 16px;">Drawing from conceptualizations of team development, we suggest that a subset of team learning processes and behaviors are of particular importance in the team formation stage. During the team formation, group members build interpersonal knowledge and develop a team orientation. This includes establishing "rudimentary" knowledge structures (i.e., shared mental models and transactive memory systems; <a href = "https://eric.ed.gov/?id=ED440304">Kozlowski et al., 1999</a>; <a href = "https://doi.org/10.1108/S1534-085620160000018008">Fiore & Georganta, 2017</a>). In this phase, team learning processes for <i>exploration</i>, <i>information sharing</i>, and <i>information management</i> are identified as a critical foundation for collaboration effectiveness and software quality.</p>
 
 <ul style="font-size: 16px;"> <li>Exploration processes include, for example, the identification of all relevant shareholders, not just those represented in the team at the time of its formation (e.g., domain scientists, computer scientists, middleware engineers, impacted communities). </li>
 <li>Information sharing processes include, for example, the delivery of, exposure and access to fundamental information about the problem domain in addition to the desired outcomes and goals for each shareholder group. </li>
@@ -88,21 +88,39 @@ Unique characteristics of scientific software projects and teams include, but ar
 </p>
 
 <i>Team learning following conflict</i>
-<p style="font-size: 16px;">This section is in development.</p>
+<br>
+<p style="font-size: 16px;"><i>Planned section</i></p>
 
 </details>
 
 <details>
-<summary>AI for Team Learning</summary>
-<i>...</i>
-<p style="font-size: 16px;">Advances in artificial intelligence (AI) technologies can potentially be leveraged to support team learning. For example, exploration processes may involve the utilization of  AI for information search. </p>
+<summary>AI for team learning</summary>
+<br>
+<i>Supporting team Learning processes</i>
+<p style="font-size: 16px;">Advances in artificial intelligence (AI) technologies can potentially be leveraged to support team learning. For example, exploration processes may involve the utilization of  AI for information search. Here the idea is to identify opportunities where AI tools and agents can facilitate team learning. </p>
+
+<i>A framework for AI in teams </i>
+<p style="font-size: 16px;">Planned section</p>
+
 </details>
 
-<summary>Team learning in multi-team systems</summary>
-<i>...</i>
-<p style="font-size: 16px;"></p>
-</details>
+<details>
+<summary>Team learning in multiteam systems</summary>
+<br>
 
+<i>Multiteam integration</i>
+<p style="font-size: 16px;">Scientific software projects and products can and often do span multiple teams and organizations. These multiteam systems, or teams of teams, maintain an overarching shared goal while also working towards their team goals and team task completion. Multiteam systems have a number of characteristics which differentiate them from teams and alter the way they learn, including their organization, responsiveness, leadership and communication, development, and performance (<a href = "https://doi.org/10.1108/TPM-06-2018-0039">Sessa et al., 2019</a>). The following actions are identified as a means to support team learning in component teams and across the multiteam systems: </p>
+
+<ul style="font-size: 16px;">✓ Define and understand the complexity of the problem to be solved (i.e., make complexity explicit)<br>
+✓ Identify opportunities and constraints<br>
+✓ Identify who is is involved in terms of expertise and roles<br>
+✓ Establish a shared timeline for project completion<br>
+✓ Define project leadership and management roles that require interdisciplinary knowledge and proficiency<br>
+✓ Implement team cohesion initiatives while respecting diverse circumstances and sociocultural backgrounds<br>
+✓ Create artifact that captures multi-team expertise (e.g., an interactive visual representation of multi-team collaboration)<br>
+</ul>
+
+</details>
 
 
 
