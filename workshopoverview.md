@@ -30,7 +30,7 @@ Workshop participants communicated the value of the workshop topic for scientifi
 Related, one publication with all workshop participants as co-authors is planned for submission to a computational science and engineering venue. 
 An informal plan was established to explore other opportunities for additional publications, including, for example, extension of workshop position papers. 
 <br><br>
-A presentation to report on the focus and outcomes of the workshop has been accepted as part of a <a href ="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=82405">minisymposium</a> at <a href = "https://www.siam.org/conferences-events/siam-conferences/cse25/">SIAM CSE25</a> in collaboration with members of Sustainable Horizons Institute, Argonne National Laboratory, Sandia National Laboratories, the University of Notre Dame, and the University of Illinois at Urbana-Champaign. The minisymposiun is scheduled to take place on Thursday, March 6, 2025, 2:10 PM - 3:50 PM at the Fort Worth Convention Center in Forth Worth, Texas, USA. 
+A presentation to report on the focus and outcomes of the workshop was presented in a <a href ="https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=82405">minisymposium</a> at <a href = "https://www.siam.org/conferences-events/siam-conferences/cse25/">SIAM CSE25</a> in collaboration with members of Sustainable Horizons Institute, Argonne National Laboratory, Sandia National Laboratories, the University of Notre Dame, and the University of Illinois at Urbana-Champaign.
 </p>
 
 <html>
