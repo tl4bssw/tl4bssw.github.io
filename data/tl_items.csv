@@ -1,0 +1,191 @@
+Author,Year,Survey_Name,Survey_Construct,Item_Number,Survey_Item_Number,Item
+Kasl et al.,1997,Team_Learning_Processes,Team_Learning_Processes,1,TLP_1,We share personal insights or learning with one another.
+Kasl et al.,1997,Team_Learning_Processes,Team_Learning_Processes,2,TLP_2,We often learn through trying out new behaviors.
+Kasl et al.,1997,Team_Learning_Processes,Team_Learning_Processes,3,TLP_3,We learned to drop our departmental perspectives and think from an organization-wide perspective.
+Kasl et al.,1997,Team_Learning_Processes,Team_Learning_Processes,4,TLP_4,We change our perspectives about ourselves and others.
+Kasl et al.,1997,Team_Learning_Processes,Team_Learning_Processes,6,TLP_6,We try out new approaches to our jobs as a result of the team‚Äôs work.
+Kasl et al.,1997,Team_Learning_Processes,Team_Learning_Processes,7,TLP_7,The act of working collaboratively results in greater learning for each of us than if we had worked alone
+Kasl et al.,1997,Team_Learning_Processes,Team_Learning_Processes,8,TLP_8,We generally incorporate the perspectives of most members in analyzing problems and making decisions.
+Kasl et al.,1997,Team_Learning_Processes,Team_Learning_Processes,9,TLP_9,We often find that our views of the problem change as a result of our team discussion.
+Kasl et al.,1997,Team_Learning_Processes,Team_Learning_Processes,10,TLP_10,We invite people from outside the team to present information or have discussion with us.
+Kasl et al.,1997,Team_Learning_Processes,Team_Learning_Processes,11,TLP_11,We listen to the perspectives of every member in the team.
+Kasl et al.,1997,Team_Learning_Processes,Team_Learning_Processes,12,TLP_12,We generally revise our viewpoints based on input or new information from others outside our team.
+Kasl et al.,1997,Team_Learning_Processes,Team_Learning_Processes,13,TLP_13,We change our behavior as a result of seeing other team members change.
+Kasl et al.,1997,Team_Learning_Processes,Team_Learning_Processes,14,TLP_14,We share what we learn from our team with others outside the team.
+Kasl et al.,1997,Team_Learning_Processes,Team_Learning_Processes,15,TLP_15,We challenge our basic beliefs or assumptions about the issues under discussion.
+Kasl et al.,1997,Team_Learning_Processes,Team_Learning_Processes,16,TLP_16,We increase our knowledge base by going outside of our team for information
+Edmondson,1999,Team_Learning_edmondsonTM,Team_Learning,1,TLTM_1,We regularly take time to figure out ways to improve our team's work processes.
+Edmondson,1999,Team_Learning_edmondsonTM,Team_Learning,2,TLTM_2,"This team tends to handle differences of opinion privately or offline, rather than addressing them directly as a team."
+Edmondson,1999,Team_Learning_edmondsonTM,Team_Learning,3,TLTM_3,"Team members go out and get all the information they possibly can from others, such as customers, or other parts of the organization."
+Edmondson,1999,Team_Learning_edmondsonTM,Team_Learning,4,TLTM_4,This team frequently seeks new information that leads us to make important changes.
+Drach-Zahavy et al.,2001,Learning_drach,Learning_Processes,1,dzL_1,My team members and I criticize each others work in order to improve teaching
+Drach-Zahavy et al.,2001,Learning_drach,Learning_Processes,2,dzL_2,My team members are prepared to reflect on the way they act
+Drach-Zahavy et al.,2001,Learning_drach,Learning_Processes,3,dzL_3,My team members and I engage in evaluating our weak points in attaining effectiveness
+Drach-Zahavy et al.,2001,Learning_drach,Learning_Processes,4,dzL_4,The team often utilizes the different opinions for the sake of obtaining optimal outcomes
+van Offenbeek,2001,Learning_Activities,Distributing_Information,1,LA_1,Received information from other team
+van Offenbeek,2001,Learning_Activities,Distributing_Information,2,LA_2,Distributed information to other team
+van Offenbeek,2001,Learning_Activities,Distributing_Information,4,LA_4,Gained information through working with other team
+van Offenbeek,2001,Learning_Activities,Convergent_Sensemaking,5,LA_5,Were listening well to each other
+van Offenbeek,2001,Learning_Activities,Convergent_Sensemaking,6,LA_6,Were helping each other to form sound opinion
+van Offenbeek,2001,Learning_Activities,Convergent_Sensemaking,7,LA_7,Were debating about interpretation
+van Offenbeek,2001,Learning_Activities,Divergent_Sensemaking,8,LA_8,Were spending time on our processes
+van Offenbeek,2001,Learning_Activities,Divergent_Sensemaking,9,LA_9,Were looking for evaluative information
+van Offenbeek,2001,Learning_Activities,Divergent_Sensemaking,10,LA_10,Were developing shared knowledge
+van Offenbeek,2001,Learning_Activities,Divergent_Sensemaking,11,LA_11,Comments on ideas were being acted upon
+van Offenbeek,2001,Learning_Activities,Divergent_Sensemaking,12,LA_12,Were always sharing knowledge and information
+van Offenbeek,2001,Learning_Activities,Storage_and_Retrieval,13,LA_13,My team was using team documents
+van Offenbeek,2001,Learning_Activities,Storage_and_Retrieval,14,LA_14,Were storing in minutes
+van Offenbeek,2001,Learning_Activities,Storage_and_Retrieval,15,LA_15,Were storing our knowledge in an archive
+Bunderson et al.,2002,Learning_bunderson,Learning_Orientation_b,1,bL_1,The team likes challenging and difficult assignments that teach new things
+Bunderson et al.,2002,Learning_bunderson,Learning_Orientation_b,2,bL_2,This team is willing to take risks on new ideas in order to find out what works
+Bunderson et al.,2002,Learning_bunderson,Learning_Orientation_b,3,bL_3,The team likes to work on things that require a lot of skill and ability
+Bunderson et al.,2002,Learning_bunderson,Learning_Orientation_b,4,bL_4,This team actively tries to identify best practices across the organization
+Bunderson et al.,2002,Learning_bunderson,Learning_Orientation_b,5,bL_5,This team taps resources outside of the organization for good ideas
+Gibson et al.,2003,Team_Learning_gibson,Experimentation,1,gibsonTL_1,This team comes up with many new ideas about how work should be done
+Gibson et al.,2003,Team_Learning_gibson,Experimentation,2,gibsonTL_2,"If a new way of doing work is introduced, it often comes from within the team"
+Gibson et al.,2003,Team_Learning_gibson,Experimentation,3,gibsonTL_3,This team is frequently the source of ideas that are copied by other teams
+Gibson et al.,2003,Team_Learning_gibson,Communication,4,gibsonTL_4,There is open communication in this team
+Gibson et al.,2003,Team_Learning_gibson,Communication,5,gibsonTL_5,Everyone has a chance to express their opinion
+Gibson et al.,2003,Team_Learning_gibson,Communication,6,gibsonTL_6,Team members maintain a high level of idea exchange
+Gibson et al.,2003,Team_Learning_gibson,Codification,7,gibsonTL_7,This team carefully documents how we do our work
+Gibson et al.,2003,Team_Learning_gibson,Codification,8,gibsonTL_8,This team has a formal system to capture our good ideas
+Gibson et al.,2003,Team_Learning_gibson,Codification,9,gibsonTL_9,This team attempts to record our best practices
+Mu et al.,2003,Synergistic_Knowledge_Development,Synergistic_Knowledge_Dev,1,SKD_1,My team work integrated all the different opinions of the team members
+Mu et al.,2003,Synergistic_Knowledge_Development,Synergistic_Knowledge_Dev,2,SKD_2,My team always resolved different opinions of members in a constructive manner
+Mu et al.,2003,Synergistic_Knowledge_Development,Synergistic_Knowledge_Dev,3,SKD_3,The unique skills and talents of all the members of my team were fully valued and utilized
+Tjosvold et al.,2004,Learning_from_Mistakes_TM,Learning_from_Mistakes,1,LFM_1,Mistakes are very useful for improving our teams work process.
+Tjosvold et al.,2004,Learning_from_Mistakes_TM,Learning_from_Mistakes,2,LFM_2,A mistake provides important information to solve the issue at hand.
+Tjosvold et al.,2004,Learning_from_Mistakes_TM,Learning_from_Mistakes,3,LFM_3,Our mistakes point us to how we can improve.
+Tjosvold et al.,2004,Learning_from_Mistakes_TM,Learning_from_Mistakes,4,LFM_4,"In mastering our tasks, team members learn a lot from their mistakes."
+Tjosvold et al.,2004,Learning_from_Mistakes_TM,Learning_from_Mistakes,5,LFM_5,We learn from mistakes.
+Tjosvold et al.,2004,Learning_from_Mistakes_TM,Learning_from_Mistakes,6,LFM_6,We do not let mistakes recur unnecessarily.
+Tjosvold et al.,2004,Learning_from_Mistakes_TM,Learning_from_Mistakes,7,LFM_7,We can correct most mistakes effectively.
+De Dreu,2007,Team_Learning_dedreu,Learning,1,dedreuTL_1,Team members learn a lot from each other.
+De Dreu,2007,Team_Learning_dedreu,Learning,2,dedreuTL_2,My team learns from mistakes and errors.
+De Dreu,2007,Team_Learning_dedreu,Learning,3,dedreuTL_3,Team members ask and give each other feedback.
+Breso et al.,2008,Team_Learning_Questionnaire,Improvement_Seeking,1,TLQ_1,Mistakes are openly discussed in order to learn from them.
+Breso et al.,2008,Team_Learning_Questionnaire,Improvement_Seeking,2,TLQ_2,Differences between real and expected performance are critically and constructively analyzed
+Breso et al.,2008,Team_Learning_Questionnaire,Improvement_Seeking,3,TLQ_3,The lessons learned are made available to all the members.
+Breso et al.,2008,Team_Learning_Questionnaire,Improvement_Seeking,4,TLQ_4,Actions are taken to continuously improve.
+Breso et al.,2008,Team_Learning_Questionnaire,Improvement_Seeking,5,TLQ_5,"Even when an error is caught in time, people are still told about it, so it doesn't happen again"
+Breso et al.,2008,Team_Learning_Questionnaire,Open_Communication,6,TLQ_6,Different points of view are expressed openly and sincerely.
+Breso et al.,2008,Team_Learning_Questionnaire,Open_Communication,7,TLQ_7,"People are encouraged to ask why, regardless of their rank"
+Breso et al.,2008,Team_Learning_Questionnaire,Open_Communication,8,TLQ_8,The points of view of others are listened to.
+Breso et al.,2008,Team_Learning_Questionnaire,Open_Communication,9,TLQ_9,Two way communication is frequently used.
+Breso et al.,2008,Team_Learning_Questionnaire,Collaborative_Learning,10,TLQ_10,We learn from each other.
+Breso et al.,2008,Team_Learning_Questionnaire,Collaborative_Learning,11,TLQ_11,Knowledge is shared among the different team members.
+Breso et al.,2008,Team_Learning_Questionnaire,Collaborative_Learning,12,TLQ_12,Teamwork is encouraged as a way of learning from others
+Breso et al.,2008,Team_Learning_Questionnaire,Collaborative_Learning,13,TLQ_13,"In group discussions, everyone's opinion is taken into consideration"
+Savelsbergh et al.,2009,Team_Learning_Behaviors_Sav,Co-construction,1,TLB_Sav_1,Information from team members is complemented with information from other team members.
+Savelsbergh et al.,2009,Team_Learning_Behaviors_Sav,Co-construction,2,TLB_Sav_2,Team members collectively draw conclusions from the ideas that are discussed in the team.
+Savelsbergh et al.,2009,Team_Learning_Behaviors_Sav,Co-construction,3,TLB_Sav_3,Team members elaborate on each other's information and ideas.
+Savelsbergh et al.,2009,Team_Learning_Behaviors_Sav,Perspective_Exploration,4,TLB_Sav_4,Team members listen carefully to each other.
+Savelsbergh et al.,2009,Team_Learning_Behaviors_Sav,Perspective_Exploration,5,TLB_Sav_5,"If something is unclear, we ask each other questions."
+Savelsbergh et al.,2009,Team_Learning_Behaviors_Sav,Perspective_Exploration,6,TLB_Sav_6,If a team member gives his or her opinion he or she subsequently asks for the opinion of the others.
+Savelsbergh et al.,2009,Team_Learning_Behaviors_Sav,Perspective_Exploration,7,TLB_Sav_7,We encourage each other to look at our work from different perspectives.
+Savelsbergh et al.,2009,Team_Learning_Behaviors_Sav,Error_Analysis,8,TLB_Sav_8,"After making a mistake, the team tries together to analyze what caused it."
+Savelsbergh et al.,2009,Team_Learning_Behaviors_Sav,Error_Analysis,9,TLB_Sav_9,"In this team, we think that it is useful to analyze errors."
+Savelsbergh et al.,2009,Team_Learning_Behaviors_Sav,Error_Analysis,10,TLB_Sav_10,"If something has gone wrong, the team takes the time to think it through."
+Savelsbergh et al.,2009,Team_Learning_Behaviors_Sav,Error_Analysis,11,TLB_Sav_11,"After an error has occurred, it is analyzed thoroughly in this team."
+Savelsbergh et al.,2009,Team_Learning_Behaviors_Sav,Error_Comms,12,TLB_Sav_12,"Team members communicate their mistakes, to prevent that others make the same mistake."
+Savelsbergh et al.,2009,Team_Learning_Behaviors_Sav,Error_Comms,13,TLB_Sav_13,"We discuss errors within our team, because errors and their solutions can deliver important information."
+Savelsbergh et al.,2009,Team_Learning_Behaviors_Sav,Error_Comms,14,TLB_Sav_14,"In our team, mistakes are discussed among each other."
+Savelsbergh et al.,2009,Team_Learning_Behaviors_Sav,Error_Comms,15,TLB_Sav_15,Errors are discussed openly.
+Savelsbergh et al.,2009,Team_Learning_Behaviors_Sav,Process_Reflection,16,TLB_Sav_16,We often discuss our team's work methods.
+Savelsbergh et al.,2009,Team_Learning_Behaviors_Sav,Process_Reflection,17,TLB_Sav_17,"As a team, we regularly discuss how effective we are in collaborating."
+Savelsbergh et al.,2009,Team_Learning_Behaviors_Sav,Process_Reflection,18,TLB_Sav_18,Our team often reconsiders our working procedures.
+Savelsbergh et al.,2009,Team_Learning_Behaviors_Sav,Process_Reflection,19,TLB_Sav_19,We regularly take time to reflect on how we can improve our working methods.
+Savelsbergh et al.,2009,Team_Learning_Behaviors_Sav,Outcome_Reflection,20,TLB_Sav_20,"In our team, we check what we can learn from our achievements."
+Savelsbergh et al.,2009,Team_Learning_Behaviors_Sav,Outcome_Reflection,21,TLB_Sav_21,"In our team, we check if our actions have brought in what we expected before."
+Savelsbergh et al.,2009,Team_Learning_Behaviors_Sav,Seeking_Feedback,23,TLB_Sav_23,We seek feedback on our methods.
+Savelsbergh et al.,2009,Team_Learning_Behaviors_Sav,Seeking_Feedback,24,TLB_Sav_24,We analyze our performance in accordance with other teams.
+Savelsbergh et al.,2009,Team_Learning_Behaviors_Sav,Seeking_Feedback,25,TLB_Sav_25,We ask feedback from internal and external stakeholders on our results.
+Savelsbergh et al.,2009,Team_Learning_Behaviors_Sav,Experimenting,26,TLB_Sav_26,"In our team, we experiment with other working methods"
+Savelsbergh et al.,2009,Team_Learning_Behaviors_Sav,Experimenting,27,TLB_Sav_27,Our team tests new working methods.
+Savelsbergh et al.,2009,Team_Learning_Behaviors_Sav,Experimenting,28,TLB_Sav_28,"Together, we plan to test new working methods."
+Kostopoulos et al.,2011,Team_Exploratory-Exploitative_Learning,Exploratory_Learning,1,TEEL_1,Team members were systematically searching for new possibilities during the project
+Kostopoulos et al.,2011,Team_Exploratory-Exploitative_Learning,Exploratory_Learning,2,TEEL_2,Team members offered new ideas and solutions to complicated problems
+Kostopoulos et al.,2011,Team_Exploratory-Exploitative_Learning,Exploratory_Learning,3,TEEL_3,Team members experimented with new and creative ways for accomplishing work
+Kostopoulos et al.,2011,Team_Exploratory-Exploitative_Learning,Exploratory_Learning,4,TEEL_4,Team members evaluated diverse options regarding the course of the project
+Kostopoulos et al.,2011,Team_Exploratory-Exploitative_Learning,Exploratory_Learning,5,TEEL_5,The members of our team developed many new skills during the project
+Kostopoulos et al.,2011,Team_Exploratory-Exploitative_Learning,Exploitative_Learning,6,TEEL_6,The members of our team recombined existing knowledge for accomplishing work
+Kostopoulos et al.,2011,Team_Exploratory-Exploitative_Learning,Exploitative_Learning,7,TEEL_7,"In our team, we primarily performed routine activities"
+Kostopoulos et al.,2011,Team_Exploratory-Exploitative_Learning,Exploitative_Learning,8,TEEL_8,"During the project, our team implemented standardized methodologies and regular work practices"
+Kostopoulos et al.,2011,Team_Exploratory-Exploitative_Learning,Exploitative_Learning,9,TEEL_9,Team members improved and refined their existing knowledge and expertise during the project
+Kostopoulos et al.,2011,Team_Exploratory-Exploitative_Learning,Exploitative_Learning,10,TEEL_10,Team members mainly used their current knowledge and skills for performing their tasks
+Hirak et al.,2012,Learning_from_Failures,Learning_from_Failures,1,LFF_1,"When a problem concerning a lack of required resources for completing a task is being raised, our unit members provide an immediate solution, but also inform the management and the relevant department about the problem"
+Hirak et al.,2012,Learning_from_Failures,Learning_from_Failures,2,LFF_2,"When a unit member makes a mistake, her members in the workplace talk to her, not for the purpose of blaming her, but rather for the value of learning"
+Hirak et al.,2012,Learning_from_Failures,Learning_from_Failures,3,LFF_3,"When unit members make a mistake, they inform the relevant manager to enable others to learn from it"
+Hirak et al.,2012,Learning_from_Failures,Learning_from_Failures,4,LFF_4,A question such as Why do we do the things as such? is fully appreciated in our unit
+Hirak et al.,2012,Learning_from_Failures,Learning_from_Failures,5,LFF_5,"In our unit, all members are encouraged to ask questions such as Is there a better way to address problems associated with how we provide the health services."
+Bresman et al.,2013,Team_Learning_Internal-External,Internal_Learning,2,TLIE_2,People in the team often speak up to test assumptions about issues under discussion.
+Bresman et al.,2013,Team_Learning_Internal-External,Internal_Learning,3,TLIE_3,"In this team, someone always makes sure that we stop to reflect on the teams work progress."
+Bresman et al.,2013,Team_Learning_Internal-External,External_Learning,4,TLIE_4,This team spends time and effort collecting technical information and ideas from individuals outside of the team.
+Bresman et al.,2013,Team_Learning_Internal-External,External_Learning,5,TLIE_5,This team spends time and effort finding out what competing firms or teams were doing on similar projects.
+Bresman et al.,2013,Team_Learning_Internal-External,External_Learning,6,TLIE_6,This team spends time and effort scanning the environment inside or outside the organization for marketing ideas and expertise.
+Kostopoulos et al.,2013,Team_Learning_Emerge,Intuition,1,TLE_1,"The members of our team could combine and synthesize diverse data, information and ideas."
+Kostopoulos et al.,2013,Team_Learning_Emerge,Intuition,3,TLE_3,Team members could improvise.
+Kostopoulos et al.,2013,Team_Learning_Emerge,Interpretation,4,TLE_4,"In our team, we had a very good level of information and knowledge sharing."
+Kostopoulos et al.,2013,Team_Learning_Emerge,Interpretation,5,TLE_5,"In our team, we managed to develop a common picture or idea of the most critical problems and how they could be resolved."
+Kostopoulos et al.,2013,Team_Learning_Emerge,Interpretation,6,TLE_6,"In our team, we managed to have a productive and creative dialogue for project related issues."
+Kostopoulos et al.,2013,Team_Learning_Emerge,Integration,7,TLE_7,"In our team, we managed to agree upon the actions and activities that we should perform."
+Kostopoulos et al.,2013,Team_Learning_Emerge,Integration,8,TLE_8,"In our team, we shared information, ideas and results while performing project tasks."
+Kostopoulos et al.,2013,Team_Learning_Emerge,Integration,9,TLE_9,"Our team developed and experimented with a number of different scenarios, deliverables, or production designs."
+Rauter et al.,2018,Team_Learning_from_Setbacks,Learning_from_Setbacks,1,TLFS_1,We tried to increase our knowledge in the business plan creation
+Rauter et al.,2018,Team_Learning_from_Setbacks,Learning_from_Setbacks,2,TLFS_2,We learned from our mistakes in the business plan creation
+Rauter et al.,2018,Team_Learning_from_Setbacks,Learning_from_Setbacks,3,TLFS_3,This team demonstrates the ability to develop innovative solutions to problems
+Rauter et al.,2018,Team_Learning_from_Setbacks,Learning_from_Setbacks,4,TLFS_4,This team discovered creative solutions to our problems
+Rauter et al.,2018,Team_Learning_from_Setbacks,Learning_from_Setbacks,5,TLFS_5,We discovered new techniques for performing well with our business plan
+Widmann et al.,2018,Team_Learning_Behaviors,Knowledge_Sharing,1,TLB_1,Team members keep their best ideas to themselves
+Widmann et al.,2018,Team_Learning_Behaviors,Knowledge_Sharing,2,TLB_2,Team members are willing to share knowledge and ideas with others
+Widmann et al.,2018,Team_Learning_Behaviors,Knowledge_Sharing,3,TLB_3,Team members share their ideas openly
+Widmann et al.,2018,Team_Learning_Behaviors,Knowledge_Sharing,4,TLB_4,Team members with expert knowledge are willing to help others in this team
+Widmann et al.,2018,Team_Learning_Behaviors,Knowledge_Sharing,5,TLB_5,Our team is good at using the knowledge and ideas of different team members
+Widmann et al.,2018,Team_Learning_Behaviors,Knowledge_Sharing,6,TLB_6,In this team we exchange our practical experiences regarding the common task
+Widmann et al.,2018,Team_Learning_Behaviors,Knowledge_Sharing,7,TLB_7,"In this team, we share project relevant know how"
+Widmann et al.,2018,Team_Learning_Behaviors,Reflexivity,8,TLB_8,"In this team, we share our previous knowledge"
+Widmann et al.,2018,Team_Learning_Behaviors,Reflexivity,9,TLB_9,As a team we usually take well considered decisions
+Widmann et al.,2018,Team_Learning_Behaviors,Reflexivity,10,TLB_10,We review our methods of working as a result of changes in the environment
+Widmann et al.,2018,Team_Learning_Behaviors,Reflexivity,11,TLB_11,We talk about different ways in which we can reach our objectives
+Widmann et al.,2018,Team_Learning_Behaviors,Reflexivity,12,TLB_12,We examine the implications that changes in the environment may have for the aims of the team
+Widmann et al.,2018,Team_Learning_Behaviors,Reflexivity,13,TLB_13,We work out what we can learn from past activities
+Widmann et al.,2018,Team_Learning_Behaviors,Reflexivity,14,TLB_14,"Before we get to work, we make sure everyone on the team has the same problem definition"
+Widmann et al.,2018,Team_Learning_Behaviors,Reflexivity,15,TLB_15,"During task execution, we stop to assess whether the team is on the right track"
+Widmann et al.,2018,Team_Learning_Behaviors,Reflexivity,16,TLB_16,"If a team member discovers a problem, he or she will talk about it with other team members"
+Widmann et al.,2018,Team_Learning_Behaviors,Reflexivity,17,TLB_17,We examine the long term consequences of certain activities
+Widmann et al.,2018,Team_Learning_Behaviors,Reflexivity,18,TLB_18,Problems are looked at from different points of view in this team
+Widmann et al.,2018,Team_Learning_Behaviors,Reflexivity,19,TLB_19,We check whether our activities produced the expected results
+Widmann et al.,2018,Team_Learning_Behaviors,Reflexivity,20,TLB_20,In this team the results of actions are evaluated
+Widmann et al.,2018,Team_Learning_Behaviors,Reflexivity,21,TLB_21,We reflect on the question of whether a pattern can be discerned in events
+Widmann et al.,2018,Team_Learning_Behaviors,Reflexivity,22,TLB_22,"If things do not work out as planned, we consider what we can do about it"
+Widmann et al.,2018,Team_Learning_Behaviors,Reflexivity,23,TLB_23,"If we are successful as a team, we take the time to analyse how we achieved this"
+Widmann et al.,2018,Team_Learning_Behaviors,Reflexivity,24,TLB_24,"If things do not work out as they should, we take the time as a team to find the possible cause of the problems"
+Widmann et al.,2018,Team_Learning_Behaviors,Reflexivity,25,TLB_25,The team reviews its objectives
+Widmann et al.,2018,Team_Learning_Behaviors,Reflexivity,26,TLB_26,The methods used by the team to get the job done are discussed
+Widmann et al.,2018,Team_Learning_Behaviors,Reflexivity,27,TLB_27,We regularly discuss whether the team is working effectively
+Widmann et al.,2018,Team_Learning_Behaviors,Reflexivity,28,TLB_28,We review whether its getting the job done
+Widmann et al.,2018,Team_Learning_Behaviors,Reflexivity,29,TLB_29,We reflect on the way in which we communicate
+Widmann et al.,2018,Team_Learning_Behaviors,Reflexivity,30,TLB_30,We review how we make decisions
+Widmann et al.,2018,Team_Learning_Behaviors,Reflexivity,31,TLB_31,We discuss how well we communicate information
+Widmann et al.,2018,Team_Learning_Behaviors,Boundary_Spanning,32,TLB_32,When necessary team members consult with individuals who possess knowledge relevant to the project
+Widmann et al.,2018,Team_Learning_Behaviors,Boundary_Spanning,33,TLB_33,Team members scan the environment inside and outside the organisation for technical ideas and expertise
+Widmann et al.,2018,Team_Learning_Behaviors,Boundary_Spanning,34,TLB_34,Team members seek relevant information from across the organisation
+Widmann et al.,2018,Team_Learning_Behaviors,Boundary_Spanning,35,TLB_35,Team members have access to individuals who possess technical expertise relevant to the project
+Harvey et al.,2019,Learning_Orientation,Learning_Orientation,1,LO_1,We are willing to select a challenging work assignment that we can learn a lot from
+Harvey et al.,2019,Learning_Orientation,Learning_Orientation,2,LO_2,We often look for opportunities to develop new skills and knowledge
+Harvey et al.,2019,Learning_Orientation,Learning_Orientation,3,LO_3,We enjoy challenging and difficult tasks where well learn new skills
+Harvey et al.,2019,Learning_Orientation,Learning_Orientation,4,LO_4,"For us, development of work ability is important enough to take risks"
+Harvey et al.,2019,Learning_Orientation,Learning_Orientation,5,LO_5,We prefer to work in situations that require a high level of ability and talent
+Zhang et al.,2021,Team_Learning_IRT,Knowledge_Acquisition,1,TL_IRT_1,There is an organized and efficient process of knowledge acquisition
+Zhang et al.,2021,Team_Learning_IRT,Knowledge_Acquisition,2,TL_IRT_2,Team members are competent at acquiring information
+Zhang et al.,2021,Team_Learning_IRT,Knowledge_Acquisition,3,TL_IRT_3,The team is efficient in acquiring knowledge
+Zhang et al.,2021,Team_Learning_IRT,Knowledge_Acquisition,4,TL_IRT_4,"Overall, the process of knowledge acquisition is productive"
+Zhang et al.,2021,Team_Learning_IRT,Knowledge_Sharing,5,TL_IRT_5,I share my work reports and official documents with our team members frequently
+Zhang et al.,2021,Team_Learning_IRT,Knowledge_Sharing,6,TL_IRT_6,"I always provide my manuals, methodologies and models for our team members"
+Zhang et al.,2021,Team_Learning_IRT,Knowledge_Sharing,7,TL_IRT_7,I share my experience or know how from work with our team members frequently
+Zhang et al.,2021,Team_Learning_IRT,Knowledge_Sharing,8,TL_IRT_8,I always provide my know where or know whom at the request of our team members
+Zhang et al.,2021,Team_Learning_IRT,Knowledge_Sharing,9,TL_IRT_9,I tries to share my expertise from my education or training with our team members in a more effective way
+Zhang et al.,2021,Team_Learning_IRT,Knowledge_Integration,10,TL_IRT_10,Members of this team synthesize and integrate their expertise at the project level
+Zhang et al.,2021,Team_Learning_IRT,Knowledge_Integration,11,TL_IRT_11,Members of this team span several areas of expertise to develop shared project concepts
+Zhang et al.,2021,Team_Learning_IRT,Knowledge_Integration,12,TL_IRT_12,Members of this team can see how different pieces of these projects fit together
+Zhang et al.,2021,Team_Learning_IRT,Knowledge_Integration,13,TL_IRT_13,Members of this team competently blend new project-related knowledge with what they already know
