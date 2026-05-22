@@ -1,14 +1,11 @@
 ---
-title: How is team learning evaluated?
+title: How is team learning assessed?
+author: Olivia B. Newton
 ---
 
-Measuring team learning enables researchers and practioners to identify opportunities to support team problem solving and innovation. 
+  
+Team learning processes are typically assessed via quantitative survey methods, although a small number of studies quantify team learning through behavioral observation. A substantial number of team learning scales have been proposed in the literature, including adaptations of  existing instruments. These measures are based on differing conceptualizations of team learning and thus capture a variety of processes and behaviors. 
 
-A number of survey instruments have been proposed to measure team learning. These measures are based on differing conceptualizations of team learning and capture a variety of processes and behaviors. 
+## Characterizing team learning measurement
 
-## Analysis of Team Learning Measures
-
-Both derivative and original instruments were collected to analyze the linguistic and conceptual space of team learning measurement.
-
-The majority of these measures were developed to assess team learning in different types of teams. In other words, these measures have not been developed with the specific needs or requirements of scientific software teams in mind. Furthermore, temporal aspects of team learning are not well understood and remain understudied (<a href = "https://doi.org/10.3389/fpsyg.2019.01417">Wiese & Burke, 2019</a>). 
-
+Because many team learning instruments share conceptual foundations, some overlap between scales is expected. At the same time, certain team learning processes may be underrepresented or neglected in existing measures. To identify both overlap and potential gaps in the measurement space, original and derivative instruments were compiled into a single corpus and then analyzed with natural language processing techniques.
