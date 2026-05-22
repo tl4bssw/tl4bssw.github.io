@@ -2,7 +2,9 @@
 title: What is team learning?
 ---
 
-A number of definitions are offered in the literature which emphasize the sharing, integrative, and reflective processes that constitute team learning. A selection of definitions published over the last three decades is provided here. 
+A number of definitions are offered in the literature, emphasizing the sharing, integrative, and reflective processes that constitute team learning. Early conceptualizations of team learning describe it as a group-level phenomenon. More recent theoretical and empirical work has expanded this view, presenting team learning as a multi-level phenomenon that includes both individual and group behaviors.
+
+A selection of definitions published over the last three decades is provided here. 
 
 
 ::::{grid} 1
