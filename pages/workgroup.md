@@ -8,7 +8,7 @@ title: TL4BSSw Group
 :align: center
 ```
 
-**Workshop Organizing Committee:** 
+**Workshop Organizer:** 
 * [Olivia B. Newton](https://oliviabnewton.com), University of Montana (*Previously University of Central Florida*)
 
 **Contributors:**
