@@ -12,7 +12,7 @@ title: TL4BSSw Group
 * [Olivia B. Newton](https://oliviabnewton.com), University of Montana (*Previously University of Central Florida*)
 
 **Contributors:**
-- Elaine Raybourn, Consortium for the Advancement of Scientific Software
+- Elaine M. Raybourn, Consortium for the Advancement of Scientific Software
 - Giovani Diaz Alfaro, University of Central Florida
 - Hana Frluckaj, University of Texas-Austin
 - Huaxia Zhou, Northwestern University
@@ -20,6 +20,6 @@ title: TL4BSSw Group
 - Mehmet Aydeniz, University of Tennessee
 - Mohammed Almtuairi, University of Notre Dame
 - Reed Milewicz, Sandia National Laboratories
-- Sanket Ramchandra PATOLE, University of Texas-Tyler
+- Sanket Ramchandra Patole, University of Texas-Tyler
 - W. Christopher Lenhardt, NSF NCAR Earth Observing Laboratory
 - Zeinab Serhan, Arizona State University
