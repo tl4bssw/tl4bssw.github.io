@@ -2,7 +2,7 @@
 title: Location
 ---
 
-[**Institute for Simulation and Training (IST)**](https://www.ist.ucf.edu/)  
+[**University of Central Florida's Institute for Simulation and Training (IST)**](https://www.ist.ucf.edu/)  
 3100 Technology Pkwy  
 Orlando, FL 32826
 

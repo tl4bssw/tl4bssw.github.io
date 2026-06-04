@@ -26,3 +26,7 @@ Sanket Ramchandra PATOLE, <i>University of Texas-Tyler</i><br>
 Zeinab Serhan, <i>Arizona State University</i><br>
 </p>
 
+
+## Contact 
+
+If you are interested in connecting with the TL4BSSw group, please contact Olivia B. Newton via onewton[at]sigsoft.org.
