@@ -29,4 +29,4 @@ Zeinab Serhan, <i>Arizona State University</i><br>
 
 ## Contact 
 
-If you are interested in connecting with the TL4BSSw group, please contact Olivia B. Newton via onewton[at]sigsoft.org.
+Interested in connecting with the TL4BSSw group? Reach out to Olivia B. Newton via onewton[at]sigsoft.org.
