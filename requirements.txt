@@ -1,3 +1,7 @@
 pandas
 itables
 ipywidgets
+networkx
+pyvis
+matplotlib
+jupyterlab-myst
