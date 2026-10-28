@@ -4,8 +4,8 @@ project:
   id: 9916a005-b2b4-4bb6-a2ba-59ed1dd2748d
   jupyter: true
   # title: TL4BSSw
-  # description:
-  # keywords: []
+  description: Team Learning for Better Scientific Software Website
+  keywords: [teamwork, team learning, collaboration, scientific software, scientific computing]
   authors: []
   github: https://github.com/tl4bssw/tl4bssw.github.io
   # notebook: 
