@@ -2,9 +2,9 @@
 title: What is team learning?
 ---
 
-A number of definitions are offered in the literature, emphasizing the sharing, integrative, and reflective processes that constitute team learning. Early conceptualizations of team learning describe it as a group-level phenomenon. More recent theoretical and empirical work has expanded this view, presenting team learning as a multi-level phenomenon that includes both individual and group behaviors.
+Team learning is a *collective process* in which a team creates, stores, and uses knowledge to solve problems. This process is based on team members’ cognition and interactions. Team learning behaviors include sharing information, giving and seeking feedback, reflecting together, storing and retrieving knowledge, and engaging with resources outside the team. The frequency and quality of these activities vary over time, and what the team has learned becomes the basis for future learning. A team’s knowledge may be distributed across members, as in a shared mental model, or stored externally, as in documentation.
 
-A selection of definitions published over the last three decades is provided below. 
+A selection of team learning definitions published over the last three decades is provided below. 
 
 
 ::::{grid} 1
