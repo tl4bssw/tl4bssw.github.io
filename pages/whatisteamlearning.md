@@ -2,9 +2,9 @@
 title: What is team learning?
 ---
 
-Team learning is a *collective process* in which a team creates, maintains, and uses knowledge to solve problems. This process is based on team members’ cognition and interactions. 
+Team learning is a *collective process* in which a team creates, maintains, and uses knowledge to solve problems. This process is based on team members’ cognition and interactions.  
 
-Team learning behaviors include sharing information, giving and seeking feedback, reflecting together, storing and retrieving knowledge, and engaging with resources outside the team. The frequency and quality of these activities vary over time, and what the team has learned becomes the basis for future learning. A team’s knowledge may be distributed across members, as in a shared mental model, or recorded externally, as in documentation.
+Team learning behaviors include sharing information, giving and seeking feedback, reflecting together, storing and retrieving knowledge, and engaging with resources outside the team. The frequency and quality of these activities vary over time, and what the team has learned becomes the basis for future learning. A team’s knowledge may be distributed across members, as in a shared mental model, or recorded externally, as in documentation.  
 
 A selection of team learning definitions published over the last three decades is provided below. 
 
